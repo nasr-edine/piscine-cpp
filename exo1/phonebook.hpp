@@ -18,10 +18,4 @@ class Contact
     string underwear_color;
     string darkest_secret;
     int number;
-
-    // Member Functions() 
-    void printname() 
-    { 
-       cout << "Geekname is: " << first_name; 
-    } 
 };
